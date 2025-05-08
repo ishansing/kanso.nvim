@@ -51,7 +51,7 @@ local palette = {
     surimiOrange = "#FFA066",
     katanaGray = "#717C7C",
 
-    inkBlack0 = "#14171d",
+    inkBlack0 = "#0f0f0f",
     inkBlack1 = "#1f1f26",
     inkBlack2 = "#24262D",
     inkBlack3 = "#393B42",
